@@ -9,7 +9,7 @@ const DummyPage: FunctionComponent<DummyPageProps> = () => {
     return ( 
         <>
         <SEO 
-        title={"title"}
+        title={"name title"}
         titleTemplate={"siteName"}
         titleSeparator={`-`}
         description={"description"}
